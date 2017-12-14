@@ -1,5 +1,7 @@
 # Obfuscate for Chrome
 
+![](https://res.cloudinary.com/urre/image/upload/v1513265128/zharosiivqzbwqkdrmqu.png)
+
 ## What?
 Simple Chrome Extension that obfuscates all text on the current webpage, just append `?action=obfuscate` to the url and reload. Perfect for sharing a screenshot with some sort of content you simple dont want to show (yet).
 
