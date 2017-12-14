@@ -19,4 +19,4 @@ Simple Chrome Extension that obfuscates all text on the current webpage, just ap
 
 ### License
 
-MIT © [Urban Sanden](https://sprintworks.se) using obfuscate.js MIT 2013 by Mikko Ohtamaa
+MIT © [Urban Sanden](https://urre.me) (Using obfuscate.js MIT 2013 by Mikko Ohtamaa)
